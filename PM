@@ -1,0 +1,7 @@
+-- Made By: WW.#3179 (https://discord.gg/jgZgtGTXcY)
+_G.Credits = { -- don't remove
+    ["Developer"] = "WW.#3179", -- don't remove
+    ["Discord Server"] = "https://discord.gg/znY7k2AgkK" -- don't remove
+} -- don't remove
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xN3k0x/Skidware/main/Games/Project-Mugetsu.lua"))()
